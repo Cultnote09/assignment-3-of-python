@@ -1,0 +1,30 @@
+PYTHON|Who developed Python?|Dennis Ritchie|Guido van Rossum|James Gosling|Bjarne Stroustrup|b
+PYTHON|What is the keyword to define a function?|func|def|define|lambda|b
+PYTHON|Which data type is immutable?|List|Tuple|Dictionary|Set|b
+PYTHON|Which keyword is used to create a class in Python?|function|object|class|define|c
+PYTHON|Which of the following is used to handle exceptions?|try|error|except|catch|c
+PYTHON|Which of the following is not a Python data type?|List|Set|Tree|Tuple|c
+PYTHON|Which operator is used for floor division?|/|//|%|**|b
+PYTHON|Which function is used to get user input?|input()|scan()|read()|get()|a
+PYTHON|Which module in Python is used for mathematical operations?|math|cmath|statistics|numbers|a
+PYTHON|What will be the output of type(5)?|float|int|string|bool|b
+DBMS|Which command is used to remove a table?|DELETE|REMOVE|DROP|CLEAR|c
+DBMS|Which key uniquely identifies each record in a table?|Foreign Key|Primary Key|Unique Key|Candidate Key|b
+DBMS|Which language is used to retrieve data from the database?|DDL|DML|DCL|DQL|d
+DBMS|Which of the following is not a type of SQL command?|DDL|DML|HTML|DCL|c
+DBMS|Which clause is used to filter records?|WHERE|ORDER BY|GROUP BY|SELECT|a
+DBMS|Which function is used to count rows in SQL?|SUM()|COUNT()|ROW()|AVG()|b
+DBMS|Which key is used to link two tables?|Super Key|Candidate Key|Foreign Key|Primary Key|c
+DBMS|Which normal form removes transitive dependency?|1NF|2NF|3NF|BCNF|c
+DBMS|Which of the following ensures no duplicate rows?|DISTINCT|UNIQUE|PRIMARY|CHECK|a
+DBMS|Which command is used to modify data in a table?|UPDATE|ALTER|MODIFY|CHANGE|a
+DSA|Which data structure uses FIFO?|Stack|Queue|Array|Tree|b
+DSA|Which algorithm is used for sorting?|Binary Search|Bubble Sort|Depth First Search|Hashing|b
+DSA|Which traversal method is used in Depth First Search?|Level Order|Breadth Order|Preorder|Postorder|c
+DSA|Which data structure is used for implementing recursion?|Stack|Queue|Graph|Linked List|a
+DSA|Which data structure uses LIFO?|Stack|Queue|Heap|Array|a
+DSA|Which searching algorithm works on sorted data?|Linear Search|Binary Search|DFS|BFS|b
+DSA|Which of the following is a non-linear data structure?|Array|Stack|Queue|Tree|d
+DSA|Which algorithm is used to find the shortest path in a graph?|Dijkstra|Merge Sort|Binary Search|DFS|a
+DSA|Which of the following is not a sorting algorithm?|Insertion Sort|Selection Sort|Quick Sort|Binary Search|d
+DSA|Which operation removes the last element in a stack?|delete|remove|pop|push|c
